@@ -1,0 +1,290 @@
+const client_manifest = {
+  "_DK6ApBNw.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DK6ApBNw.js",
+    "name": "nuxt-link",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_q2fDQpoF.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "q2fDQpoF.js",
+    "name": "vue.8fc199ce",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "layouts/default.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DLz7IWyn.js",
+    "name": "default",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "default.NC9hxGaq.css": {
+    "file": "default.NC9hxGaq.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "fa-brands-400.Dur5g48u.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "resourceType": "font",
+    "mimeType": "font/woff2",
+    "file": "fa-brands-400.O7nZalfM.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "fa-regular-400.Bf3rG5Nx.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "resourceType": "font",
+    "mimeType": "font/woff2",
+    "file": "fa-regular-400.DgEfZSYE.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "fa-solid-900.BV3CbEM2.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "resourceType": "font",
+    "mimeType": "font/woff2",
+    "file": "fa-solid-900.DOQJEhcS.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "fa-v4compatibility.B9MWI-E6.ttf",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf"
+  },
+  "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2": {
+    "resourceType": "font",
+    "mimeType": "font/woff2",
+    "file": "fa-v4compatibility.BX8XWJtE.woff2",
+    "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
+  },
+  "node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Cpo2I1Nj.js",
+    "name": "error-404",
+    "src": "node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DK6ApBNw.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_q2fDQpoF.js"
+    ],
+    "css": []
+  },
+  "error-404.ygbHJO5Q.css": {
+    "file": "error-404.ygbHJO5Q.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BmtRJ5HG.js",
+    "name": "error-500",
+    "src": "node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js",
+      "_q2fDQpoF.js"
+    ],
+    "css": []
+  },
+  "error-500.B11Ibp8J.css": {
+    "file": "error-500.B11Ibp8J.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CBL52yjY.js",
+    "name": "entry",
+    "src": "node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "layouts/default.vue",
+      "node_modules/nuxt/dist/app/components/error-404.vue",
+      "node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "_globalCSS": true
+  },
+  "pages/about.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DEsacXbk.js",
+    "name": "about",
+    "src": "pages/about.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/app.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "-p1pu41w.js",
+    "name": "app",
+    "src": "pages/app.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "app.De5FCcHg.css": {
+    "file": "app.De5FCcHg.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/contact.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "VxAzvbOb.js",
+    "name": "contact",
+    "src": "pages/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "contact.DzS5Hm2u.css": {
+    "file": "contact.DzS5Hm2u.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Ur5Wh2LE.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "index.Wv02s98Z.css": {
+    "file": "index.Wv02s98Z.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/multiplication-game.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Dvf-ygcR.js",
+    "name": "multiplication-game",
+    "src": "pages/multiplication-game.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DK6ApBNw.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "multiplication-game.DzDY6EY3.css": {
+    "file": "multiplication-game.DzDY6EY3.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/snake-game.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BrQQosnW.js",
+    "name": "snake-game",
+    "src": "pages/snake-game.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DK6ApBNw.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "snake-game.vqbcUcad.css": {
+    "file": "snake-game.vqbcUcad.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/todo-list-app.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "88gsqheP.js",
+    "name": "todo-list-app",
+    "src": "pages/todo-list-app.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DK6ApBNw.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "todo-list-app.BFabV6-P.css": {
+    "file": "todo-list-app.BFabV6-P.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  }
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map
