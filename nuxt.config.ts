@@ -20,4 +20,9 @@ export default defineNuxtConfig({
   ],
 
   compatibilityDate: '2024-10-03',
+
+  target: 'static',
+  router: {
+    base: '/AaronNguyen.github.io/' // Use your repository name here
+  },
 });
